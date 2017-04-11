@@ -4,6 +4,6 @@ using namespace std;
 
 int main(void) {
     ProcessDataMiner PDM("Patrizier");
-    PDM.displayInfo();
+    //PDM.displayInfo();
 }
 

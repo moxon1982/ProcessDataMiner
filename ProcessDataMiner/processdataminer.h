@@ -2,18 +2,11 @@
 #define PROCESSDATAMINER_H
 
 // check if header Files have already being included before
-#ifndef STRING
-    #include <string>
-#endif
-#ifndef WINDOWS_H
-    #include <windows.h>
-#endif
-#ifndef TLHELP32_H
-    #include <tlHelp32.h>
-#endif
-#ifndef IOSTREAM
-    #include <iostream>
-#endif
+#include <string>
+#include <windows.h>
+#include <tlHelp32.h>
+#include <iostream>
+
 
 using namespace std;
 
